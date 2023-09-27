@@ -1,5 +1,15 @@
 # Interacting with an algorand contract using the beaker package
 
+## Requirements for building the contract
+1. A description of the project, taking note of why, who and what it does.
+2. A breakdown of the functionalities of the project.
+3. The data types that will be sent to the contract and the expected one. This will be used to properly understand what the contract is centered on and the structure for data creation and storage.
+   - Input data template
+   - Output data template
+4. Required contract functionalities. 
+5. Frequency of contract interaction. 
+6. Transparency of the stored data. 
+
 ## Structure of an algorand contract
 An algorand contract written with beaker makes interaction easy and straight 
 forward. The contract is written and compiled with beaker. Then the ABI is
